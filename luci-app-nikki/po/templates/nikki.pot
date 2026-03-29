@@ -80,6 +80,14 @@ msgstr ""
 msgid "Bypass China Mainland IP6"
 msgstr ""
 
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:210
+msgid "Bypass Russia IP"
+msgstr ""
+
+#: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:213
+msgid "Bypass Russia IP6"
+msgstr ""
+
 #: applications/luci-app-nikki/htdocs/luci-static/resources/view/nikki/proxy.js:189
 msgid "Bypass DSCP"
 msgstr ""

@@ -207,6 +207,12 @@ return view.extend({
         o.datatype = 'uinteger';
         o.rmempty = false;
 
+        o = s.taboption('bypass', form.Flag, 'bypass_russia_ip', _('Bypass Russia IP'));
+        o.rmempty = false;
+
+        o = s.taboption('bypass', form.Flag, 'bypass_russia_ip6', _('Bypass Russia IP6'));
+        o.rmempty = false;
+
         return m.render();
     }
 });
